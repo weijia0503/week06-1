@@ -1,0 +1,212 @@
+body {
+  font-family: 'Lato', -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, "Noto Sans", sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
+}
+
+.navbar-area-style {
+  padding: 1.5rem 5.3125rem 1.5rem 5.3125rem;
+}
+
+.navbar-light .navbar-nav .active > .nav-link {
+  color: #0E8A00;
+  font-weight: bold;
+}
+
+.logo-family {
+  font-size: 1.5rem;
+  font-family: 'Raleway';
+}
+
+.nav-color span {
+  color: #121212;
+}
+
+.navbar-light .navbar-nav .nav-link {
+  color: #121212;
+}
+
+.second-size {
+  font-size: 1.5rem;
+}
+
+.second-nav-mr {
+  margin-right: 2.5rem;
+}
+
+.navbar-area-style-02 {
+  padding: 1.5rem 0 1.5rem 0;
+}
+
+.color-text-grey {
+  color: #0000009A !important;
+}
+
+.img-m {
+  height: 21.875rem;
+}
+
+.img-l {
+  height: 30rem;
+}
+
+.img-s {
+  height: 15rem;
+}
+
+.img-bg01 {
+  background-image: url(/assets/images/content/img-01.jpg);
+}
+
+.img-bg02 {
+  background-image: url(/assets/images/content/img-02.jpg);
+}
+
+.img-bg03 {
+  background-image: url(/assets/images/content/img-03.jpg);
+}
+
+.img-bg04 {
+  background-image: url(/assets/images/content/img-04.jpg);
+}
+
+.img-bg05 {
+  background-image: url(/assets/images/content/img-05.jpg);
+}
+
+.img-bg06 {
+  background-image: url(/assets/images/content/img-06.jpg);
+}
+
+.img-bg07 {
+  background-image: url(/assets/images/content/img-07.jpg);
+}
+
+.img-bg08 {
+  background-image: url(/assets/images/content/img-08.jpg);
+}
+
+.img-bg09 {
+  background-image: url(/assets/images/content/img-09.jpg);
+}
+
+.img-all {
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: cover;
+}
+
+.sale-text {
+  z-index: 1;
+  padding: 1rem 1.9375rem 0 0;
+  right: 0;
+  font-size: .875rem;
+  font-weight: bold;
+  color: #fff;
+}
+
+.del-color {
+  color: #00000062;
+}
+
+.page-link {
+  border: none;
+}
+
+.page-link:hover {
+  border-bottom: 1px solid #0E8A00;
+}
+
+.page-item.active .page-link {
+  background-color: inherit;
+  border-color: inherit;
+  color: #0E8A00;
+}
+
+.pagination-sm .page-item:last-child .page-link {
+  border-top-right-radius: inherit;
+  border-bottom-right-radius: inherit;
+}
+
+.page-item:last-child .page-link {
+  border-top-right-radius: inherit;
+  border-bottom-right-radius: inherit;
+}
+
+.pagination-sm .page-item:first-child .page-link {
+  border-top-right-radius: inherit;
+  border-bottom-right-radius: inherit;
+}
+
+.pagination-sm .page-item:first-child .page-link {
+  border-top-left-radius: inherit;
+  border-bottom-left-radius: inherit;
+}
+
+.page-item:first-child .page-link {
+  border-top-right-radius: inherit;
+  border-bottom-right-radius: inherit;
+}
+
+.page-item:first-child .page-link {
+  border-top-right-radius: inherit;
+  border-bottom-right-radius: inherit;
+}
+
+.page-link {
+  color: #121212;
+}
+
+.page-link:hover {
+  color: #0E8A00;
+}
+
+.pagination-sm .page-link {
+  font-size: 1.5rem;
+}
+
+.footer-img {
+  background-image: url(/assets/images/footer/tom-crew-uDF1mW7EUwM-unsplash.jpg);
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: cover;
+}
+
+footer h2 {
+  color: #fff;
+  font-size: 3rem;
+  line-height: 4rem;
+  padding-left: 5.3125rem;
+  padding-bottom: 5.3125rem;
+  padding-top: 5.25rem;
+  z-index: 1;
+}
+
+.form-control {
+  padding: 2rem;
+}
+
+.btn-footer {
+  padding: 1.25rem 2.75rem;
+}
+
+.btn-outline-secondary {
+  color: #fff;
+  border-color: #0E8A00;
+  background-color: #0E8A00;
+}
+
+.input-bg-color {
+  background-color: inherit;
+}
+
+.footer-w {
+  width: 445px;
+}
+
+.info-color {
+  background-color: #121212;
+}
+
+.font-size-14 {
+  font-size: .875rem;
+}
+/*# sourceMappingURL=all.css.map */

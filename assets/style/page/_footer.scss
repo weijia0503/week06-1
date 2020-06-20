@@ -1,0 +1,49 @@
+.footer-img{
+    background-image: url(/assets/images/footer/tom-crew-uDF1mW7EUwM-unsplash.jpg);
+    background-repeat: no-repeat;
+    background-position: center center ;
+    background-size: cover;
+    // height: 16rem;
+}
+
+footer{
+    h2{
+        color: $white-a;
+        font-size: 3rem;
+        line-height: 4rem;
+        padding-left: 5.3125rem;
+        padding-bottom: 5.3125rem;
+        padding-top: 5.25rem;
+        z-index: 1;
+    }
+}
+
+.form-control{
+    padding: 2rem;
+}
+
+.btn-footer{
+    padding: 1.25rem 2.75rem;
+}
+
+.btn-outline-secondary{
+    color: $white-a;
+    border-color: $primary;
+    background-color: $primary;
+}
+
+.input-bg-color{
+    background-color: inherit;
+}
+
+.footer-w{
+    width: 445px;
+}
+
+.info-color{
+    background-color: $dark-b;
+}
+
+.font-size-14{
+    font-size: .875rem;
+}

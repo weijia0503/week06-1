@@ -1,0 +1,55 @@
+.page-link{
+    border: none;
+    &:hover{
+        border-bottom: 1px solid $primary;
+    }
+}
+
+.page-item.active .page-link{
+    background-color: inherit;
+    border-color:inherit;
+    color: $primary;
+
+}
+
+.pagination-sm .page-item:last-child .page-link{
+    border-top-right-radius: inherit;
+    border-bottom-right-radius: inherit;
+}
+
+.page-item:last-child .page-link{
+    border-top-right-radius: inherit;
+    border-bottom-right-radius: inherit;
+}
+
+
+.pagination-sm .page-item:first-child .page-link{
+    border-top-right-radius: inherit;
+    border-bottom-right-radius: inherit;
+}
+
+.pagination-sm .page-item:first-child .page-link{
+    border-top-left-radius: inherit;
+    border-bottom-left-radius: inherit;
+}
+
+.page-item:first-child .page-link{
+    border-top-right-radius: inherit;
+    border-bottom-right-radius: inherit;
+}
+
+.page-item:first-child .page-link{
+    border-top-right-radius: inherit;
+    border-bottom-right-radius: inherit;
+}
+
+.page-link{
+    color: $dark-b;
+    &:hover{
+        color: $primary;
+    }
+}
+
+.pagination-sm .page-link{
+    font-size: 1.5rem;
+}

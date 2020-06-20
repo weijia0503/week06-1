@@ -1,0 +1,12 @@
+// 全站設定
+@import "setting/variables";
+@import "setting/base";
+
+//layout
+@import "layout/nav";
+
+//page
+@import "page/second-nav";
+@import "page/product";
+@import "page/pagination";
+@import "page/footer";

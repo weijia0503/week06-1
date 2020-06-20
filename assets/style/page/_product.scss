@@ -1,0 +1,57 @@
+.img-m{
+    height: 21.875rem;
+}
+
+.img-l{
+    height: 30rem;
+
+}
+.img-s{
+    height: 15rem;
+
+}
+.img-bg01{
+    background-image: url(/assets/images/content/img-01.jpg);
+}
+.img-bg02{
+    background-image: url(/assets/images/content/img-02.jpg);
+}
+.img-bg03{
+    background-image: url(/assets/images/content/img-03.jpg);
+}
+.img-bg04{
+    background-image: url(/assets/images/content/img-04.jpg);
+}
+.img-bg05{
+    background-image: url(/assets/images/content/img-05.jpg);
+}
+.img-bg06{
+    background-image: url(/assets/images/content/img-06.jpg);
+}
+.img-bg07{
+    background-image: url(/assets/images/content/img-07.jpg);
+}
+.img-bg08{
+    background-image: url(/assets/images/content/img-08.jpg);
+}
+.img-bg09{
+    background-image: url(/assets/images/content/img-09.jpg);
+}
+.img-all{
+    background-repeat: no-repeat;
+    background-position: center center ;
+    background-size: cover;
+}
+
+.sale-text{
+    z-index: 1;
+    padding: 1rem 1.9375rem 0 0;
+    right: 0;
+    font-size: .875rem;
+    font-weight: bold;
+    color: $white-a;
+}
+
+.del-color{
+    color: $gray-c;
+}
